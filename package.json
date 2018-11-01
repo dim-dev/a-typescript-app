@@ -1,0 +1,24 @@
+{
+  "name": "webpack-typescript",
+  "version": "1.0.0",
+  "description": "Webpack + TypeScript",
+  "main": "app.js",
+  "author": "",
+  "license": "",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.8.0",
+    "bs-fullscreen-message": "^1.0.0",
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "strip-ansi": "^3.0.0",
+    "ts-loader": "^0.8.1",
+    "typescript": "^1.7.5",
+    "webpack": "^1.10.5",
+    "webpack-dev-middleware": "^1.2.0"
+  }
+}
